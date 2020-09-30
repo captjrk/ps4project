@@ -8,7 +8,7 @@
 }
 
 .custom.disconnected {
-    background: url(http://gamepadviewer.com/ps4-assets/disconnected.svgz);
+    background: url(ps4-assets/disconnected.svgz);
 }
 
 .custom.disconnected div {
@@ -25,7 +25,7 @@
 .custom .trigger {
     width: 99px;
     height: 100%;
-    background: url(http://gamepadviewer.com/ps4-assets/triggers.svgz);
+    background: url(ps4-assets/triggers.svgz);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .custom .bumper {
     width: 99px;
     height: 23px;
-    background: url(http://gamepadviewer.com/ps4-assets/bumper.svgz) no-repeat;
+    background: url(ps4-assets/bumper.svgz) no-repeat;
     opacity: 0;
 }
 
@@ -77,7 +77,7 @@
 }
 
 .custom .touchpad.pressed {
-    background: url(http://gamepadviewer.com/ps4-assets/touchpad.svgz) no-repeat center;
+    background: url(ps4-assets/touchpad.svgz) no-repeat center;
 }
 
 .custom .meta {
@@ -89,7 +89,7 @@
 }
 
 .custom .meta.pressed {
-    background: url(http://gamepadviewer.com/ps4-assets/meta.svgz) no-repeat center;
+    background: url(ps4-assets/meta.svgz) no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
@@ -122,7 +122,7 @@ background-position: 0 -70px;
 }
 
 .custom .back, .custom .start {
-    background: url(http://gamepadviewer.com/ps4-assets/start.svgz);
+    background: url(ps4-assets/start.svgz);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(http://gamepadviewer.com/ps4-assets/face.svgz);
+    background: url(ps4-assets/face.svgz);
 }
 
 .custom .button.pressed {
@@ -196,7 +196,7 @@ background-position: 0 -70px;
 }
 
 .custom .face {
-    background: url(http://gamepadviewer.com/ps4-assets/dpad.svgz);
+    background: url(ps4-assets/dpad.svgz);
     position: absolute;
 }
 
